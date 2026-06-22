@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+main{
+    background-color: #a2ead7;
+    height: 100vh;
+}
+
+body{
+    font-family: sans-serif;
+}
+.container{
+    width: fit-content;
+
+}
+.card{
+    background-color: white;
+    width: 350px;
+    padding: 1.5%;
+    border-radius: 10px;
+    
+}
+.tier{
+    text-transform:capitalize;
+    font-weight:bold;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+span{
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+
+
+}
+.price {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: gray;
+}
+.test{
+    color: gray;
+}
+hr{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+ul{
+    list-style: none;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+li{
+   line-height: 1.8; 
+}
+button{width: 100%;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: black;
+    color: white;
+
+}
